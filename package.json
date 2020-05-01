@@ -1,0 +1,16 @@
+{
+  "name": "k6-sample-docker",
+  "version": "1.0.0",
+  "description": "sample k6 running with docker",
+  "main": "index.js",
+  "author": "Emerson Jose",
+  "license": "Apache-2.0",
+  "keywords": [
+    "k6",
+    "loadtest",
+    "load-test",
+    "load-testing",
+    "server-load",
+    "performance"
+  ]
+}
